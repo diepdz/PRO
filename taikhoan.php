@@ -1,7 +1,7 @@
 <?php
-$uid  = 'NHV.FML';
-$email = '';
-$pass = '';
+$uid  = 'Diep.Hacker.Dz';
+$email = 'handhsd46@yahoo.com';
+$pass = 'diep1311';
 $email2 = '';
 $pass2 = '';
 $email3 = '';
